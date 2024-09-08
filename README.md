@@ -120,3 +120,8 @@ Note: The business is projected to operate at a loss in the first year due to st
 
 **9. Conclusion**
 EcoRide Bamboo Skateboards has the potential to tap into the growing market for eco-friendly and sustainable products. The initial costs are significant, but with effective marketing and consistent production, the business could achieve profitability within 2-3 years.
+
+**CONTACT**
+Contact Gladstone Rose of Quality Solutions Limited ( WhatsApp 876-783-2423) to shedule a zoom meeting to discuss your bamboo project
+
+© 2024 Gladstone Rose-QSL Limited. All rights reserved until given direct permission.
