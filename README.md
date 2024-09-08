@@ -3,26 +3,26 @@
 
 Here’s a basic business plan for producing and selling bamboo skateboards, incorporating the steps for making the skateboards and including financial considerations:
 
-1. Executive Summary
+**1. Executive Summary:**
 - Business Name: EcoRide Bamboo Skateboards
 - Mission: To produce eco-friendly, high-performance bamboo skateboards that appeal to skateboard enthusiasts while promoting sustainability.
 - Business Model: Manufacture and sell bamboo skateboards through an e-commerce platform, targeting skateboarders, retailers, and eco-conscious consumers.
-2. Business Objectives
+**2. Business Objectives:**
 - Produce high-quality bamboo skateboards.
 - Promote environmentally friendly products.
 - Grow sales to $100,000 in the first year of operation.
 - Build brand recognition through social media and partnerships with eco-friendly stores.
-3. Products and Services
+**3. Products and Services:**
 - Main Product: Bamboo skateboards (various styles: longboards, cruisers, and regular skateboards).
 - Customization Services: Personalized designs for skateboards.
 - Accessories: Wheels, trucks, grip tape, and other skateboard parts.
 - Future Products: Skateboard apparel (e.g., shirts, hats).
-4. Market Analysis
+**4. Market Analysis:**
 - Target Market: Skateboarders aged 15-35, eco-conscious consumers, skateboarding shops.
 - Market Trends: Growing interest in sustainability and eco-friendly products. Skateboarding culture has grown, especially with the sport becoming part of the Olympics.
 - Competition: Competitors include traditional skateboard manufacturers and niche eco-friendly skateboard brands.
 - Unique Selling Proposition (USP): Use of sustainable bamboo, which is stronger and more flexible than maple wood, the standard material in the industry.
-5. Operations Plan
+**5. Operations Plan:**
 - Production Process:
 1. Design and sketch skateboard templates.
 2. Layer bamboo veneers and apply epoxy resin or wood glue.
