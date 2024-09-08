@@ -42,9 +42,13 @@ Here’s a basic business plan for producing and selling bamboo skateboards, inc
 **6. Marketing and Sales Strategy**
 
 **- Branding:** Position the company as eco-friendly and innovative in the skateboard industry.
+
 **- Website & E-Commerce Platform:** Create an easy-to-use website for direct-to-consumer sales.
+
 **- Social Media Marketing:** Use Instagram, YouTube, and TikTok to showcase products, engage with skateboarders, and build a community.
+
 **- Partnerships:** Collaborate with skateboarding influencers, local skate shops, and eco-conscious retailers.
+
 **- Pricing Strategy:** Competitive pricing while maintaining profitability. Average price of $100-$150 per bamboo skateboard.
 
 **7. Financial Plan**
