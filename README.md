@@ -95,9 +95,13 @@ Total Operating Expenses	$8,000
 **Profit & Loss (Year 1)**
 
 **- Revenue (Year 1):** $144,000
+
 **- COGS (Year 1):** 100 units x 12 months x $70 = $84,000
+
 **- Gross Profit (Year 1):** $144,000 - $84,000 = $60,000
+
 **- Operating Expenses (Year 1):** $8,000 x 12 = $96,000
+
 **- Net Profit (Year 1):** $60,000 - $96,000 = ($36,000 loss)
 
 Note: The business is projected to operate at a loss in the first year due to startup costs. However, once initial investments in equipment and marketing are made, profitability should increase in subsequent years.
