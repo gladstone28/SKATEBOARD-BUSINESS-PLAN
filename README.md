@@ -108,12 +108,14 @@ Note: The business is projected to operate at a loss in the first year due to st
 
 **Break-even Analysis**
 
-**- Break-even Point:** To break even, the business must cover its total expenses (startup costs + operating expenses). If monthly fixed costs are $8,000 and gross profit per skateboard is $50, the business needs to sell approximately 160 skateboards per month to break even.
+**- Break-even Point:** To break even, the business must cover its total expenses (startup costs + operating expenses). If monthly fixed costs are $8,000 and gross profit per skateboard is $50, the business needs to sell approximately **160 skateboards per month** to break even.
 
 **8. Risk Analysis**
 
 **- Material Sourcing:** Ensure consistent and affordable access to bamboo and other materials.
+
 **- Competition:** Established skateboard brands may have greater brand loyalty.
+
 **- Economic Fluctuations:** In times of economic downturn, discretionary spending on skateboards may decrease.
 
 **9. Conclusion**
