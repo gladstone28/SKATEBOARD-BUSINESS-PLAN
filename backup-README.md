@@ -4,7 +4,7 @@
 Here’s a basic business plan for producing and selling bamboo skateboards, incorporating the steps for making the skateboards and including financial considerations:
 
 **1. Executive Summary:**
-- Business Name: QSL-EcoRide Bamboo Skateboards
+- Business Name: EcoRide Bamboo Skateboards
 - Mission: To produce eco-friendly, high-performance bamboo skateboards that appeal to skateboard enthusiasts while promoting sustainability.
 - Business Model: Manufacture and sell bamboo skateboards through an e-commerce platform, targeting skateboarders, retailers, and eco-conscious consumers.
 
@@ -119,7 +119,7 @@ Note: The business is projected to operate at a loss in the first year due to st
 **- Economic Fluctuations:** In times of economic downturn, discretionary spending on skateboards may decrease.
 
 **9. Conclusion**
-QSL-EcoRide Bamboo Skateboards has the potential to tap into the growing market for eco-friendly and sustainable products. The initial costs are significant, but with effective marketing and consistent production, the business could achieve profitability within 2-3 years.
+EcoRide Bamboo Skateboards has the potential to tap into the growing market for eco-friendly and sustainable products. The initial costs are significant, but with effective marketing and consistent production, the business could achieve profitability within 2-3 years.
 
 **CONTACT:**
 
